@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-ttt-28db6": {
+      "hosting": {
+        "angular-ttt": [
+          "angular-ttt-28db6"
+        ]
+      }
+    }
+  }
+}
